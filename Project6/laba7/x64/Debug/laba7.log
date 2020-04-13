@@ -1,0 +1,8 @@
+﻿  laba7.cpp
+C:\Users\Admin\Downloads\0SlS-master\0SlS-master\Lab_6_cpp\laba7\laba7.cpp(212,9): warning C4101: Bitmap: неиспользованная локальная переменная
+C:\Users\Admin\Downloads\0SlS-master\0SlS-master\Lab_6_cpp\laba7\laba7.cpp(210,18): warning C4101: hOldBitmap: неиспользованная локальная переменная
+C:\Users\Admin\Downloads\0SlS-master\0SlS-master\Lab_6_cpp\laba7\laba7.cpp(208,6): warning C4101: hCompatibleDC: неиспользованная локальная переменная
+C:\Users\Admin\Downloads\0SlS-master\0SlS-master\Lab_6_cpp\laba7\laba7.cpp(220,8): warning C4101: buffStr: неиспользованная локальная переменная
+C:\Users\Admin\Downloads\0SlS-master\0SlS-master\Lab_6_cpp\laba7\laba7.cpp(209,14): warning C4101: PaintStruct: неиспользованная локальная переменная
+C:\Users\Admin\Downloads\0SlS-master\0SlS-master\Lab_6_cpp\laba7\laba7.cpp(221,9): warning C4101: selIndex: неиспользованная локальная переменная
+  laba7.vcxproj -> C:\Users\Admin\Downloads\0SlS-master\0SlS-master\Lab_6_cpp\x64\Debug\laba7.exe
